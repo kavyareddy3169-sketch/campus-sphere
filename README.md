@@ -2,6 +2,51 @@
 
 CampusSphere is a powerful, professional, fully responsive web application/PWA designed for comprehensive campus management. Built for a B.Tech 3rd-year mini project, it incorporates academic tracking, smart bus management with QR tracking, a smart library with subscription-based lending, and fee management.
 
+## Problem Statement
+
+Managing academic information, attendance, examination fees,
+transportation, and library services separately can make it
+difficult for students and administrators to access information
+efficiently.
+
+CampusSphere aims to provide a centralized platform that
+simplifies campus information management and improves access
+to essential student services.
+
+## Project Objectives
+
+- Provide a centralized student information portal.
+- Enable students to view their academic and attendance details.
+- Simplify examination fee status management.
+- Support campus transportation management.
+- Improve library book and lending management.
+- Provide role-based access for students and administrators.
+
+## Key Features
+
+- Student and administrator authentication.
+- Role-based access control.
+- Student dashboard.
+- Academic and attendance tracking.
+- Examination fee management.
+- Bus and transportation management.
+- Library and book management.
+- Announcements and campus information.
+
+## Future Scope
+
+- Mobile application integration.
+- Push notifications for announcements and reminders.
+- Advanced academic performance analytics.
+- Enhanced reporting for administrators.
+- Additional campus services and integrations.
+
+## Conclusion
+
+CampusSphere provides a centralized approach to campus
+management by integrating student information, academic
+tracking, transportation, library services, and fee management
+into a single web application.
 ## Tech Stack
 - React 19 (via Vite)
 - Vanilla CSS for styling
